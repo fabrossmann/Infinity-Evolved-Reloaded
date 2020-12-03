@@ -6,10 +6,12 @@
 			Energy: 16000000
 		}
 	},
-	x: 14.333333333333334d,
-	y: 7.166666666666667d,
+	x: 12.0d,
+	y: 9.0d,
 	text: [
-		"No Description"
+		"§lFor if even Draconic Armor wasn't powerful enough for you.",
+		"",
+		"§rChaotic Armor is one of the best armors in the entire modpack but comes at a hefty costs and even just crafting it isn't enough to unlock it's full power."
 	],
 	dependencies: [
 		"8e905225"
